@@ -1,16 +1,23 @@
-# sky_scraper
+# Weather Detail App
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- **Weather List Display**: Browse a list of weather information for various locations.
+- **Search Functionality**: Quickly find specific locations using the search feature.
 
-This project is a starting point for a Flutter application.
+## Screens
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Search Functionality**: Includes a search bar at the top to filter the list of locations based on user input.
+- **Weather List**: Displays a list of weather summaries with basic details such as temperature and weather conditions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Detail Screen
+
+- **Detailed Weather Information**: Shows comprehensive weather details for the selected location.
+
+## images
+
+![1](https://github.com/user-attachments/assets/fd5495ef-2a04-40b7-b9a9-bc0e3831c4d7)
+![2](https://github.com/user-attachments/assets/d5aba573-ffac-49f2-8efb-35609a9eefd9)
+![3](https://github.com/user-attachments/assets/1a52231f-ffba-44e9-80ec-e0dabd43c298)
